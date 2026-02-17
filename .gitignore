@@ -27,3 +27,8 @@ Thumbs.db
 
 # Chrome Driver
 chromedriver
+
+# Debug screenshots
+*.png
+debug_*.png
+test_*.png
